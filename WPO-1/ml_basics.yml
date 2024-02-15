@@ -1,0 +1,12 @@
+name: ml_basicsv2
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - matplotlib==3.7.3
+  - numpy
+  - scikit-learn
+  - pandas
+  - seaborn
+  
